@@ -1,1 +1,1 @@
-# Sanke-for-Android
+# Snake-for-Android
